@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "portfolio-analyzer",
-      "source": ".",
+      "source": "./",
       "description": "Investment portfolio monitoring: DCF analysis, fair value scenarios, trend charts",
       "version": "1.0.0"
     }
