@@ -2,6 +2,24 @@
 
 Investment portfolio monitoring with DCF analysis, fair value scenarios, and trend charts. Automatically tracks SEC filings and reassesses companies.
 
+## Installation
+
+### As Claude Code Plugin
+
+```
+/plugin marketplace add valerymad/portfolio-analyzer
+/plugin install portfolio-analyzer
+```
+
+### Manual
+
+```bash
+git clone https://github.com/valerymad/portfolio-analyzer.git
+cd portfolio-analyzer
+npm install
+npx tsx scripts/setup.ts --email "you@email.com" --portfolio "growth" --tickers "CRM,GOOGL"
+```
+
 ## Features
 
 - **Multi-portfolio management** — create and manage multiple portfolios with US-listed tickers

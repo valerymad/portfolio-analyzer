@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-analyzer",
+  "owner": {
+    "name": "Valery Kuznetsov"
+  },
+  "plugins": [
+    {
+      "name": "portfolio-analyzer",
+      "source": ".",
+      "description": "Investment portfolio monitoring: DCF analysis, fair value scenarios, trend charts",
+      "version": "1.0.0"
+    }
+  ]
+}
