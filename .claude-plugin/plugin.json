@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-analyzer",
+  "description": "Investment portfolio monitoring: DCF analysis, fair value scenarios, trend charts. Automatically tracks SEC filings and reassesses companies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Valery Kuznetsov"
+  },
+  "homepage": "https://github.com/valery/portfolio-analyzer",
+  "keywords": ["investment", "portfolio", "dcf", "valuation", "sec", "stocks", "analysis"],
+  "license": "MIT"
+}

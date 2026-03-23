@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-analyzer",
+  "version": "1.0.0",
+  "description": "Investment portfolio monitoring: DCF analysis, fair value scenarios, trend charts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "tsx scripts/setup.ts",
+    "portfolio": "tsx scripts/manage-portfolio.ts",
+    "fetch-financials": "tsx scripts/fetch-financials.ts",
+    "fetch-price": "tsx scripts/fetch-price.ts",
+    "check-filings": "tsx scripts/check-new-filings.ts",
+    "assess": "tsx scripts/store-assessment.ts",
+    "chart": "tsx scripts/generate-chart.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.19.0"
+  }
+}

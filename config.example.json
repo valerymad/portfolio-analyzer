@@ -1,0 +1,14 @@
+{
+  "sec_edgar": {
+    "user_agent": "PortfolioAnalyzer/1.0 (your@email.com)"
+  },
+  "assessment": {
+    "model": "opus",
+    "max_budget_usd": 1.50,
+    "max_turns": 25
+  },
+  "charts": {
+    "output_dir": "output/charts",
+    "auto_open": true
+  }
+}
